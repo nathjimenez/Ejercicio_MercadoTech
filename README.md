@@ -1,5 +1,5 @@
 # Ejercicio_MercadoTech
-Nathalia Jimenez
+Nathalia Jimenez :relaxed:
 Ivan Hernandez
 Olga Gil: :joy:
 Paula Montañez :yum:
