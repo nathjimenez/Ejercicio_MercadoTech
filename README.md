@@ -7,4 +7,4 @@ Paula Montañez :yum:
 *** GitHub ***
 Me gusta porque es muy practico y ademas facilita hacer uso de buenas practicas al momento de desarrollar.
 
-! [Imagen GitHub] (https://1000marcas.net/wp-content/uploads/2020/02/logo-GitHub-500x281.png)
+! [Imagen GitHub] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJXb69I_ibRsIqxCsHx96k4p3Y37woO9S85HE0nzwrPH9qLy0ahwS1G6IgPLVZUhEKr4&usqp=CAU)
