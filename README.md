@@ -9,4 +9,4 @@ Paula Montañez :yum:
 ***Repositorio local y remoto***
 clases mas dinámicas y prácticas 
 
-![this is an image] (https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png)
+![this is an image] (https://www.freecodecamp.org/espanol/news/content/images/size/w600/2022/07/git-and-github.png)
